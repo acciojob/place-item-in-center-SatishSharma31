@@ -1,2 +1,27 @@
+body {
+  font-family: poppins;
+} /* Your CSS Code here. */
 
-/* Your CSS Code here. */
+.holder {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  /* display: flex;
+  justify-content: center; */
+  /* align-items: center; */
+}
+.item-1 {
+  width: 100px;
+  text-align: center;
+  height: 100px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: #fff;
+  font-weight: 600;
+}
